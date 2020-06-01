@@ -1,0 +1,163 @@
+{
+  "title": "Sean's quest",
+  "pages": [
+    [
+      {
+        "type": "scrollingText",
+        "content": {
+          "src": "/uploads/17dc70ec-4845-4d3b-8673-7ea323464047.wav",
+          "lines": [
+            {
+              "text": "spider dangles from its web and crosses the street",
+              "startTime": 3656,
+              "endTime": 7389
+            },
+            {
+              "text": "there's a chill in the air wear different hats me",
+              "startTime": 8374,
+              "endTime": 12138
+            },
+            {
+              "text": "i'll steal your soul unless you hold your breath",
+              "startTime": 13624,
+              "endTime": 16703
+            },
+            {
+              "text": "hir you might there's no avoiding death",
+              "startTime": 17953,
+              "endTime": 21166
+            },
+            {
+              "text": "times of lost hope think back to the birds",
+              "startTime": 22552,
+              "endTime": 27527
+            },
+            {
+              "text": "but the trail be your guide behind resting words",
+              "startTime": 28506,
+              "endTime": 31863
+            }
+          ]
+        },
+        "options": { "fadeIn": 2000 }
+      },
+      {
+        "type": "inputText",
+        "content": "",
+        "validation": {
+          "validationType": "text",
+          "value": "cemetery",
+          "hint": "Your treasure awaits",
+          "options": {
+            "caseInsensitive": true
+          }
+        }
+      }
+    ],
+    [
+      {
+        "type": "scrollingText",
+        "content": {
+          "src": "/uploads/6a3fd0fc-9136-4f0a-8dde-17c455a315db.wav",
+          "lines": [
+            {
+              "text": "dinner is served represent you your plate",
+              "startTime": 10260,
+              "endTime": 13513
+            },
+            {
+              "text": "this crew might leave you in a different state",
+              "startTime": 16368,
+              "endTime": 18865
+            },
+            {
+              "text": "maybe all you need is a kick in the rear",
+              "startTime": 20665,
+              "endTime": 23129
+            },
+            {
+              "text": "so hurry on up get your ass into gear",
+              "startTime": 24509,
+              "endTime": 26757
+            },
+            {
+              "text": "i hope you keep searching until you exhaust",
+              "startTime": 28537,
+              "endTime": 30948
+            },
+            {
+              "text": "how far will you go and what will it cost",
+              "startTime": 32442,
+              "endTime": 34582
+            }
+          ]
+        },
+        "options": { "fadeIn": 2000 }
+      },
+      {
+        "type": "inputText",
+        "content": "",
+        "validation": {
+          "validationType": "text",
+          "value": "emma",
+          "hint": "Your treasure awaits",
+          "options": {
+            "caseInsensitive": true
+          }
+        }
+      }
+    ],
+    [
+      {
+        "type": "scrollingText",
+        "content": {
+          "src": "/uploads/f05fc052-48ce-4b82-ac02-60caac45c454.wav",
+          "lines": [
+            {
+              "text": "tex-mex clean might leave you frozen in place",
+              "startTime": 1452,
+              "endTime": 4395
+            },
+            {
+              "text": "the crack started showing up on your face",
+              "startTime": 6389,
+              "endTime": 9309
+            },
+            {
+              "text": "and i'll make you a knight",
+              "startTime": 14207,
+              "endTime": 14212
+            },
+            {
+              "text": "and step out of that shell into the limelight",
+              "startTime": 15940,
+              "endTime": 19344
+            },
+            {
+              "text": "oh wait you can't go in",
+              "startTime": 21627,
+              "endTime": 24259
+            }
+          ]
+        },
+        "options": { "fadeIn": 2000 }
+      },
+      {
+        "type": "inputText",
+        "content": "",
+        "validation": {
+          "validationType": "text",
+          "value": "nickelodeon",
+          "hint": "Your treasure awaits",
+          "options": {
+            "caseInsensitive": true
+          }
+        }
+      }
+    ]
+  ]
+
+}
+
+
+
