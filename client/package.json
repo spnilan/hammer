@@ -10,7 +10,7 @@
     "aframe": "^1.0.4",
     "ar.js": "^2.2.2",
     "axios": "^0.19.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-dnd": "^11.1.1",
     "react-dnd-html5-backend": "^11.1.1",
