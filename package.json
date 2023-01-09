@@ -22,7 +22,7 @@
     "express-validator": "^6.4.0",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "luxon": "^1.24.1",
+    "luxon": "^2.5.2",
     "mongoose": "^5.9.9",
     "react-scroll": "^1.7.16",
     "request": "^2.88.2",
